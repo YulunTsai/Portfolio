@@ -6,7 +6,9 @@ I'm particularly drawn to roles that require not just technical execution, but a
 🔧 Tools & Skills
 
 Languages: Python (pandas, scikit-learn, matplotlib), SQL, R
+
 Visualization: Tableau, Excel, Jupyter Notebook
+
 Marketing: Google Ads, Google Analtics4, Mailbee, Wistia, Weebly
 
 📁 Featured Projects
