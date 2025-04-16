@@ -1,7 +1,7 @@
 ## Portfolio
 
 Hi! I’m Yu-Lun Tsai, a graduate student in Business Analytics at Baruch College (CUNY), with a concentration in Data Analytics. 
-With a background in marketing and a strong analytical mindset, I’m passionate about transforming raw data into actionable business insights. I am actively seeking roles in data analytics or business analysis where I can apply statistical thinking, build data pipelines, and craft compelling data stories to support strategic decision-making.
+With a background in marketing and a strong analytical mindset, I’m passionate about transforming raw data into actionable business insights. I am actively seeking roles in data analytics or business analysis where I can apply statistical thinking, build data pipelines, and craft data stories telling to support strategic decision-making.
 
 
 🔧 Tools & Skills
