@@ -23,7 +23,7 @@ Marketing: Google Ads, Google Analtics4, Mailbee, Wistia, Weebly
 
 3. *Netflix TV Shows Analysis*
 
-   **Tool used**: Python with pandas, seaborn, matplotlib [Code Link](https://github.com/YulunTsai/Netflix_Data_Analysis)
+   **Tool used**: Python with pandas, seaborn, matplotlib [Code Link](https://github.com/YulunTsai/Portfolio/blob/main/Projects/Netflix_Analysis_Cleaning_and_EDA.ipynb)
 
    Project objective: Explore the annual trends of TV shows in terms of country, duration (number of seasons), and added year or month, as well as their potential correlation with genres. Based on these insights, provide recommendations for Netflix’s future investment strategies.
 
