@@ -38,3 +38,6 @@ Marketing: Google Ads, Google Analtics4, Mailbee, Wistia, Weebly
    **Tool Used**: R with ggplot2, regclass [Code Link](https://github.com/YulunTsai/Portfolio/blob/main/Projects/Analysis_of_World_Happiness_Report.R)
 
    Project Objective: which factors affect happiness index the most and how.
+   
+   Written project for analysis: [Document](https://github.com/YulunTsai/Portfolio/blob/main/Documents/World%20Happiness%20Report/Analysis%20of%20World%20Happiness%20Report.pdf)
+   Slides for analysis: [Slides](https://github.com/YulunTsai/Portfolio/blob/main/Documents/World%20Happiness%20Report/World%20Happiness%20Report%20Slide.pdf)
