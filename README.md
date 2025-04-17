@@ -21,14 +21,20 @@ Marketing: Google Ads, Google Analtics4, Mailbee, Wistia, Weebly
 
    Project objective: Which area has the highest overall amount of recycled garbage in different categories? What is the correlation between garage categories?
 
-3. *Netflix TV Shows Analysis*
+2. *Netflix TV Shows Analysis*
 
-   **Tool used**: Python with pandas, seaborn, matplotlib [Code Link](https://github.com/YulunTsai/Portfolio/blob/main/Projects/Netflix_Analysis_Cleaning_and_EDA.ipynb)
+   **Tool Used**: Python with pandas, seaborn, matplotlib [Code Link](https://github.com/YulunTsai/Portfolio/blob/main/Projects/Netflix_Analysis_Cleaning_and_EDA.ipynb)
 
    Project objective: Explore the annual trends of TV shows in terms of country, duration (number of seasons), and added year or month, as well as their potential correlation with genres. Based on these insights, provide recommendations for Netflix’s future investment strategies.
 
-5. *Amalgamated Bank Corp Data Analysis*
+3. *Amalgamated Bank Corp Data Analysis*
 
-   **Tool used**: Python with pandas, seaborn, matplotlib [Code Link](https://github.com/YulunTsai/Portfolio/blob/main/Projects/Amalgamated%20Bank%20Corp_Data%20Analysis.ipynb)
+   **Tool Used**: Python with pandas, seaborn, matplotlib [Code Link](https://github.com/YulunTsai/Portfolio/blob/main/Projects/Amalgamated%20Bank%20Corp_Data%20Analysis.ipynb)
    
    Project objective: Help the management understand their customers, identify risk patterns, and demonstrate how predictive analytics can inform business decisions through regression modeling.
+
+4. *Analysis of World Happiness Report*
+
+   **Tool Used**: R with ggplot2, regclass [Code Link](https://github.com/YulunTsai/Portfolio/blob/main/Projects/Analysis_of_World_Happiness_Report.R)
+
+   Project Objective: which factors affect happiness index the most and how.
