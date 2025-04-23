@@ -18,6 +18,7 @@ Marketing: Google Ads, Google Analtics4, Mailbee, Wistia, Weebly
 # *Data Warehousing and Analytics: Recycled Garbage Analytics in New York City*
 
 **Tool Used**: DbSchema, Python, DataGrip, PostgreSQL, Tableau [Code Link](https://github.com/YulunTsai/Data_Warehousing_for_Anlaytics)
+
 Project objective: Which area has the highest overall amount of recycled garbage in different categories? What is the correlation between garage categories?
 
 # *Netflix TV Shows Analysis*
