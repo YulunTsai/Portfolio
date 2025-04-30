@@ -27,6 +27,8 @@ Project objective: Which area has the highest overall amount of recycled garbage
 
 Project objective: Explore the annual trends of TV shows in terms of country, duration (number of seasons), and added year or month, as well as their potential correlation with genres. Based on these insights, provide recommendations for Netflix’s future investment strategies.
 
+Tableau Visulization: [Tableau Link](https://public.tableau.com/views/Netflix_Genre_Dashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 # *Amalgamated Bank Corp Data Analysis*
 
 **Tool Used**: Python with pandas, seaborn, matplotlib [Code Link](https://github.com/YulunTsai/Portfolio/blob/main/Projects/Amalgamated%20Bank%20Corp_Data%20Analysis.ipynb)
