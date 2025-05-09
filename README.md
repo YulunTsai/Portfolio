@@ -15,6 +15,25 @@ Marketing: Google Ads, Google Analtics4, Mailbee, Wistia, Weebly
 
 📁 Featured Projects
 
+# *Analysis of World Happiness Report*
+
+**Tool Used**: R with ggplot2, regclass [Code Link](https://github.com/YulunTsai/Portfolio/blob/main/Projects/Analysis_of_World_Happiness_Report.R)
+
+Project Overview: This project explores the factors that influence public confidence in national governments using the World Happiness Report dataset. Unlike typical happiness score studies, this analysis focuses on the trust dimension, aiming to identify which variables (e.g., regional, economic, and social) best predict trust in government institutions across countries and years.
+
+Objectives
+- Investigate relationships between development indicators and Confidence in National Government
+- Quantify which factors most significantly impact public trust
+- Analyze trends and anomalies across regions and development levels
+- Enhance data manipulation skills using dplyr, magrittr, and base R
+
+Conclusion
+The analysis revealed that Region, Freedom of Life Choice, and Generosity are the most influential factors in predicting public confidence in national governments—Region alone accounts for over 32% of the variance. Interestingly, Healthy Life Expectancy showed a weak but negative correlation, especially among developing countries, prompting deeper consideration of socio-political dynamics beyond economic or health indicators.
+
+**Written Project for Analysis: [Document](https://github.com/YulunTsai/Portfolio/blob/main/Documents/World%20Happiness%20Report/Analysis%20of%20World%20Happiness%20Report.pdf)**
+**Slides for Analysis: [Slides](https://github.com/YulunTsai/Portfolio/blob/main/Documents/World%20Happiness%20Report/World%20Happiness%20Report%20Slide.pdf)**
+
+
 # *Data Warehousing and Analytics: Recycled Garbage Analytics in New York City*
 
 **Tool Used**: DbSchema, Python, DataGrip, PostgreSQL, Tableau [Code Link](https://github.com/YulunTsai/Data_Warehousing_for_Anlaytics)
@@ -35,10 +54,3 @@ Tableau Visulization: [Tableau Link](https://public.tableau.com/views/Netflix_Ge
 
 Project objective: Help the management understand their customers, identify risk patterns, and demonstrate how predictive analytics can inform business decisions through regression modeling.
 
-# *Analysis of World Happiness Report*
-
-**Tool Used**: R with ggplot2, regclass [Code Link](https://github.com/YulunTsai/Portfolio/blob/main/Projects/Analysis_of_World_Happiness_Report.R)
-
-Project Objective: which factors affect happiness index the most and how.
-  - Written project for analysis: [Document](https://github.com/YulunTsai/Portfolio/blob/main/Documents/World%20Happiness%20Report/Analysis%20of%20World%20Happiness%20Report.pdf)
-  - Slides for analysis: [Slides](https://github.com/YulunTsai/Portfolio/blob/main/Documents/World%20Happiness%20Report/World%20Happiness%20Report%20Slide.pdf)
