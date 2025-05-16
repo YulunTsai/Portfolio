@@ -15,11 +15,12 @@ Marketing: Google Ads, Google Analtics4, Mailbee, Wistia, Weebly
 
 📁 Featured Projects
 
-# **IGDB Game Insights: Analyzing Ratings, Genres, and Popularity** # [Project Codes]()
+# **IGDB Game Insights: Analyzing Ratings, Genres, and Popularity** # 
+[Project Codes](https://github.com/YulunTsai/Portfolio/tree/main/Projects/IGDB)
 
 **Tool Used**: Python(pandas, seaborn, matplotlib, requests), API Access: IGDB API (OAuth2.0 with Twitch credentials)
 
-**Project Overview**: To uncover insights into what makes games well-received and widely played by analyzing patterns across user ratings, critic scores, genres, and popularity metrics.
+**Project Overview**: This project explores relationships between game ratings, genres, and popularity using data retrieved from the IGDB API. The analysis is designed to demonstrate analytical and storytelling skills aligned with data analyst roles in the gaming industry.
 
 **Key Insights**:  
 1. Rating-Year Trends
