@@ -6,7 +6,7 @@ With a background in marketing and a strong analytical mindset, I’m passionate
 
 🔧 Tools & Skills
 
-Languages: Python (pandas, scikit-learn, matplotlib), SQL, R
+Languages: Python (Pandas, Scikit-learn, Matplotlib, Seaborn), SQL, R
 
 Visualization: Tableau, Excel, Jupyter Notebook
 
@@ -14,6 +14,34 @@ Marketing: Google Ads, Google Analtics4, Mailbee, Wistia, Weebly
 
 
 📁 Featured Projects
+
+# **IGDB Game Insights: Analyzing Ratings, Genres, and Popularity** # [Project Codes]()
+
+**Tool Used**: Python(pandas, seaborn, matplotlib, requests), API Access: IGDB API (OAuth2.0 with Twitch credentials)
+
+**Project Overview**: To uncover insights into what makes games well-received and widely played by analyzing patterns across user ratings, critic scores, genres, and popularity metrics.
+
+**Key Insights**:  
+1. Rating-Year Trends
+- All rating types show aligned trends over time (User, Critic, Total).
+- Gradual decline in average ratings after 2000, with spikes every 4–5 years possibly due to console cycles or major franchise launches.
+
+2. Genre vs. Rating Analysis
+- RTS and Tactical games consistently rank high across user and critic ratings.
+- TBS (Turn-Based Strategy) shows a gap between critics (high) and users (low), possibly due to poor spectator experience.
+- Genres like Simulator, Puzzle, and Arcade have wide rating distributions—indicating volatility in game quality.
+
+3. Popularity vs. Rating
+- Weak correlation between high popularity and high rating—overhyped games (high popularity, low rating) and underrated games (low popularity, high rating) were identified.
+- Scatter plots and bar charts help visualize the disconnect between what’s played and what’s well-reviewed.
+
+4. Popularity Type Patterns (Heatmap)
+Using IGDB’s popularity_type_id, we found that:
+- MOBA games are highly popular by score, but lack variety in type-based popularity metrics.
+- Played, Playing, and Visits dominate high-popularity genres.
+- Valuable for studios to align launch strategies with the most active popularity indicators.
+ 
+**Conclusion**: This project demonstrates how structured game metadata and player engagement metrics can be used to uncover trends in genre performance, audience preferences, and market misalignments. While certain genres like RTS and RPG remain consistently high-rated, others such as Arcade and Simulator show more volatile reception, highlighting the creative risks in those categories. Importantly, the disconnect between popularity and quality reveals opportunities to surface “underrated gems” that may be overlooked due to visibility bias.
 
 # *Analysis of World Happiness Report*
 
