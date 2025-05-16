@@ -7,12 +7,14 @@ This project explores relationships between game ratings, genres, and popularity
 - Have a valid **popularity_score** from the IGDB API  
 As a result, the findings are representative of **PC games with measurable popularity**, and may not generalize to console-exclusive or less-documented titles.
 
-📌 Project Overview
+📌 **Project Overview**
 
-Goal:To uncover insights into what makes games well-received and widely played by analyzing patterns across user ratings, critic scores, genres, and popularity metrics.
+**Goal**:To uncover insights into what makes games well-received and widely played by analyzing patterns across user ratings, critic scores, genres, and popularity metrics.
 
-Data Source:
+**Data Source**:
 [IGDB (Internet Games Database)] via authenticated API requests.
+
+**Data Dictionary**: [Google Sheet](https://docs.google.com/spreadsheets/d/1kmeJqPt9Pj5-R23CmSb-y3FqIO2gpkwiR-hccKsVG1g/edit?usp=sharing)
 
 Workflow:
 1.**Data Extraction** – Fetching structured data from multiple IGDB endpoints via API.
@@ -22,7 +24,7 @@ Workflow:
 3.**Exploratory Data Analysis (EDA)** – Creating visualizations to reveal rating trends by year, genre behavior, and popularity anomalies.
 
 
-📊 Key Insights
+📊 **Key Insights**
 ⭐ 1. Rating-Year Trends
 - All rating types show aligned trends over time (User, Critic, Total).
 - Gradual decline in average ratings after 2000, with spikes every 4–5 years possibly due to console cycles or major franchise launches.
@@ -42,12 +44,12 @@ Using IGDB’s popularity_type_id, we found that:
 - Played, Playing, and Visits dominate high-popularity genres.
 - Valuable for studios to align launch strategies with the most active popularity indicators.
 
-🧰 Tools & Technologies
+🧰 **Tools & Technologies**
 Python: pandas, seaborn, matplotlib, requests
 API Access: IGDB API (OAuth2.0 with Twitch credentials)
 Notebook Environment: Google Colab
 
-💡 Future Extensions
+💡 **Future Extensions**
 - Integrate Twitch/YouTube viewership data for cross-platform influence.
 - Build interactive dashboards (e.g., Streamlit or Tableau Public).
 - Include clustering models to segment game audience preferences.
