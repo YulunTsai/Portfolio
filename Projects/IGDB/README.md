@@ -17,11 +17,12 @@ As a result, the findings are representative of **PC games with measurable popul
 **Data Dictionary**: [Google Sheet](https://docs.google.com/spreadsheets/d/1kmeJqPt9Pj5-R23CmSb-y3FqIO2gpkwiR-hccKsVG1g/edit?usp=sharing)
 
 Workflow:
-1.**Data Extraction** – Fetching structured data from multiple IGDB endpoints via API.
 
-2.**Data Cleaning & Enrichment** – Converting foreign keys to human-readable values (e.g., genre names), handling missing data, and merging tables.
+1. **Data Extraction** – Fetching structured data from multiple IGDB endpoints via API.
 
-3.**Exploratory Data Analysis (EDA)** – Creating visualizations to reveal rating trends by year, genre behavior, and popularity anomalies.
+2. **Data Cleaning & Enrichment** – Converting foreign keys to human-readable values (e.g., genre names), handling missing data, and merging tables.
+
+3. **Exploratory Data Analysis (EDA)** – Creating visualizations to reveal rating trends by year, genre behavior, and popularity anomalies.
 
 
 📊 **Key Insights**
