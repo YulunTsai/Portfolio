@@ -22,26 +22,6 @@ Marketing: Google Ads, Google Analtics4, Mailbee, Wistia, Weebly
 
 **Project Overview**: This project explores relationships between game ratings, genres, and popularity using data retrieved from the IGDB API. The analysis is designed to demonstrate analytical and storytelling skills aligned with data analyst roles in the gaming industry.
 
-**Key Insights**:  
-1. Rating-Year Trends
-- All rating types show aligned trends over time (User, Critic, Total).
-- Gradual decline in average ratings after 2000, with spikes every 4–5 years possibly due to console cycles or major franchise launches.
-
-2. Genre vs. Rating Analysis
-- RTS and Tactical games consistently rank high across user and critic ratings.
-- TBS (Turn-Based Strategy) shows a gap between critics (high) and users (low), possibly due to poor spectator experience.
-- Genres like Simulator, Puzzle, and Arcade have wide rating distributions—indicating volatility in game quality.
-
-3. Popularity vs. Rating
-- Weak correlation between high popularity and high rating—overhyped games (high popularity, low rating) and underrated games (low popularity, high rating) were identified.
-- Scatter plots and bar charts help visualize the disconnect between what’s played and what’s well-reviewed.
-
-4. Popularity Type Patterns (Heatmap)
-Using IGDB’s popularity_type_id, we found that:
-- MOBA games are highly popular by score, but lack variety in type-based popularity metrics.
-- Played, Playing, and Visits dominate high-popularity genres.
-- Valuable for studios to align launch strategies with the most active popularity indicators.
- 
 **Conclusion**: This project demonstrates how structured game metadata and player engagement metrics can be used to uncover trends in genre performance, audience preferences, and market misalignments. While certain genres like RTS and RPG remain consistently high-rated, others such as Arcade and Simulator show more volatile reception, highlighting the creative risks in those categories. Importantly, the disconnect between popularity and quality reveals opportunities to surface “underrated gems” that may be overlooked due to visibility bias.
 
 # *Analysis of World Happiness Report*
