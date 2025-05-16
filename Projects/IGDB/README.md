@@ -25,8 +25,9 @@ Workflow:
 
 
 📊 **Key Insights**
+
 ⭐ 1. Rating-Year Trends
-- All rating types show aligned trends over time (User, Critic, Total).
+- All rating types show aligned trends over time (IGDB users, External, Total).
 - Gradual decline in average ratings after 2000, with spikes every 4–5 years possibly due to console cycles or major franchise launches.
 
 🧠 2. Genre vs. Rating Analysis
