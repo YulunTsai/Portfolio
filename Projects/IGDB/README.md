@@ -2,21 +2,23 @@
 
 This project explores relationships between game ratings, genres, and popularity using data retrieved from the IGDB API. The analysis is designed to demonstrate analytical and storytelling skills aligned with data analyst roles in the gaming industry.
 
-**Note**: This project focuses on a filtered dataset of games that:
-- Were released on **Windows (PC)** platform only
-- Have a valid **popularity_score** from the IGDB API  
-As a result, the findings are representative of **PC games with measurable popularity**, and may not generalize to console-exclusive or less-documented titles.
+## **Note**: This project focuses on a filtered dataset of games that:
+## - Were released on **Windows (PC)** platform only
+## - Have a valid **popularity_score** from the IGDB API  
+## As a result, the findings are representative of **PC games with measurable popularity**, and may not generalize to console-exclusive or less-documented titles.
 
 📌 Project Overview
-Goal:
-To uncover insights into what makes games well-received and widely played by analyzing patterns across user ratings, critic scores, genres, and popularity metrics.
+
+Goal:To uncover insights into what makes games well-received and widely played by analyzing patterns across user ratings, critic scores, genres, and popularity metrics.
 
 Data Source:
 [IGDB (Internet Games Database)] via authenticated API requests.
 
 Workflow:
 1.**Data Extraction** – Fetching structured data from multiple IGDB endpoints via API.
+
 2.**Data Cleaning & Enrichment** – Converting foreign keys to human-readable values (e.g., genre names), handling missing data, and merging tables.
+
 3.**Exploratory Data Analysis (EDA)** – Creating visualizations to reveal rating trends by year, genre behavior, and popularity anomalies.
 
 
