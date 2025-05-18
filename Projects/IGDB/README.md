@@ -16,6 +16,8 @@ As a result, the findings are representative of **PC games with measurable popul
 
 **Data Dictionary**: [Google Sheet](https://docs.google.com/spreadsheets/d/1kmeJqPt9Pj5-R23CmSb-y3FqIO2gpkwiR-hccKsVG1g/edit?usp=sharing)
 
+**Tableau Dashboard**: [Tableau](https://public.tableau.com/app/profile/yu.lun.tsai/viz/IGDBGameInsightsDashboardPCGamesOnly/ExploreGameInsights)
+
 Workflow:
 
 1. **Data Extraction** – Fetching structured data from multiple IGDB endpoints via API.
