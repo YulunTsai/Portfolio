@@ -16,8 +16,8 @@ Marketing: Google Ads, Google Analtics4, Mailbee, Wistia, Weebly
 📁 Featured Projects
 
 # **IGDB Game Insights: Analyzing Ratings, Genres, and Popularity** # 
-[Project Codes](https://github.com/YulunTsai/Portfolio/tree/main/Projects/IGDB)
-[Tableau Dashboard](https://public.tableau.com/app/profile/yu.lun.tsai/viz/IGDBGameInsightsDashboardPCGamesOnly/ExploreGameInsights)
+👩‍💻[Project Codes](https://github.com/YulunTsai/Portfolio/tree/main/Projects/IGDB)
+📊[Tableau Dashboard](https://public.tableau.com/app/profile/yu.lun.tsai/viz/IGDBGameInsightsDashboardPCGamesOnly/ExploreGameInsights)
 
 **Tool Used**: Python(pandas, seaborn, matplotlib, requests), API Access: IGDB API (OAuth2.0 with Twitch credentials)
 
