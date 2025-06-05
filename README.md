@@ -8,7 +8,7 @@ With a background in marketing and a strong analytical mindset, I’m passionate
 
 Languages: Python (Pandas, Scikit-learn, Matplotlib, Seaborn), SQL, R
 
-Visualization: Tableau, Excel, Jupyter Notebook
+Visualization: Tableau, Jupyter Notebook
 
 Marketing: Google Ads, Google Analtics4, Mailbee, Wistia, Weebly
 
